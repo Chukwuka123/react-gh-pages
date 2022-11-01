@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: black;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +36,76 @@
     transform: rotate(360deg);
   }
 }
+#btn_zuri{
+  text-align:center;
+  margin:auto;
+  justify-content: center;
+  padding:20px;
+  font-family:'Poppins';
+  font-weight: bolder;
+}
+#books{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  justify-content: center;
+  padding:10px;
+  font-family:'Poppins';
+}
+#book_python{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  justify-content: center;
+  padding:20px;
+  font-family:'Poppins';
+}
+#pitch{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  padding:20px;
+  justify-content: center;
+  font-family:'Poppins';
+}
+#book_design{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  padding:10px;
+  justify-content: center;
+  font-family:'Poppins';
+}
+#profile_img{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  justify-content: center;
+  font-family:'Poppins';
+}
+#twitter{
+  text-align:center;
+  margin:auto;
+  display:flex;
+  justify-content: center;
+  padding:10px;
+  font-family:'Poppins';
+  font-weight: bolder;
+}
+.btn{
+  width:100%;
+  border-radius:10px;
+  font-weight: bolder;
+}
+.logos{
+  justify-content: center;
+  margin:auto;
+  display:flex;
+}
+.foot{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+}
+
